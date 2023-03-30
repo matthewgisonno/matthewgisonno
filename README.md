@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @matthewgisonno
-- 👀 I’m interested in Front-end Web Development, HTML, CSS, JavaScript, PHP, Wordpress, Tailwind CSS, React, etc.
-- 🌱 I’m currently learning React
+- 👀 I’m interested in everything JavaScript... NextJS, React, NodeJS, Express, Fastify, Vercel, etc
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me matthew@gisonno.com
 
